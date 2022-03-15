@@ -1,0 +1,16 @@
+C:\Users\CodeTenor\Desktop\Example\TankTruck\TankTruck.App\bin\Debug\net5.0\TankTruck.App.exe
+C:\Users\CodeTenor\Desktop\Example\TankTruck\TankTruck.App\bin\Debug\net5.0\TankTruck.App.deps.json
+C:\Users\CodeTenor\Desktop\Example\TankTruck\TankTruck.App\bin\Debug\net5.0\TankTruck.App.runtimeconfig.json
+C:\Users\CodeTenor\Desktop\Example\TankTruck\TankTruck.App\bin\Debug\net5.0\TankTruck.App.runtimeconfig.dev.json
+C:\Users\CodeTenor\Desktop\Example\TankTruck\TankTruck.App\bin\Debug\net5.0\TankTruck.App.dll
+C:\Users\CodeTenor\Desktop\Example\TankTruck\TankTruck.App\bin\Debug\net5.0\ref\TankTruck.App.dll
+C:\Users\CodeTenor\Desktop\Example\TankTruck\TankTruck.App\bin\Debug\net5.0\TankTruck.App.pdb
+C:\Users\CodeTenor\Desktop\Example\TankTruck\TankTruck.App\obj\Debug\net5.0\TankTruck.App.csproj.AssemblyReference.cache
+C:\Users\CodeTenor\Desktop\Example\TankTruck\TankTruck.App\obj\Debug\net5.0\TankTruck.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CodeTenor\Desktop\Example\TankTruck\TankTruck.App\obj\Debug\net5.0\TankTruck.App.AssemblyInfoInputs.cache
+C:\Users\CodeTenor\Desktop\Example\TankTruck\TankTruck.App\obj\Debug\net5.0\TankTruck.App.AssemblyInfo.cs
+C:\Users\CodeTenor\Desktop\Example\TankTruck\TankTruck.App\obj\Debug\net5.0\TankTruck.App.csproj.CoreCompileInputs.cache
+C:\Users\CodeTenor\Desktop\Example\TankTruck\TankTruck.App\obj\Debug\net5.0\TankTruck.App.dll
+C:\Users\CodeTenor\Desktop\Example\TankTruck\TankTruck.App\obj\Debug\net5.0\ref\TankTruck.App.dll
+C:\Users\CodeTenor\Desktop\Example\TankTruck\TankTruck.App\obj\Debug\net5.0\TankTruck.App.pdb
+C:\Users\CodeTenor\Desktop\Example\TankTruck\TankTruck.App\obj\Debug\net5.0\TankTruck.App.genruntimeconfig.cache
