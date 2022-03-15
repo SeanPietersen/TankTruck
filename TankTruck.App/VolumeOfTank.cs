@@ -6,6 +6,7 @@ namespace TankTruck.App
     {
         public int TankVol(int h, int d, int vt)
         {
+            // calculating the radius 
             double radius = (double) d / 2;
             double heightOfTriangle = radius - h;
             double angle = (Math.Acos(heightOfTriangle/ radius));
